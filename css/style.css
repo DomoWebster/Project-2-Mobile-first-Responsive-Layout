@@ -1,0 +1,33 @@
+/* ============ Base Element Styles == */
+
+* {
+	box-sizing: border-box;
+}
+
+
+/* ============ Col Styles == */
+
+.column {
+	margin-bottom: 20px;
+}
+
+.column .col-group {
+	background-color: #f3f3f3;
+	padding: 10px;
+	display: block;
+}
+
+/* ============ Media Styles == */
+@media only screen and ( min-width: 900px ) {
+
+}
+
+.container{
+    background: linear-gradient(dodgerblue, #212e84 );
+}
+
+footer{
+    background-color: chartreuse;
+    position: sticky;
+    
+}
