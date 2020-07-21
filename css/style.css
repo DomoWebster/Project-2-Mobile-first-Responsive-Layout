@@ -4,3 +4,18 @@
     box-sizing: border-box;
 }
 
+/* MEDIA QUERIES @ 320PX */
+
+@media (min-width: 320px){
+
+}
+
+/* MEDIA QUERIES @ 768PX */
+
+@media (min-width: 768px){
+
+    /* MEDIA QUERIES @ 1024PX */
+
+@media (min-width: 1024px){
+ 
+}
